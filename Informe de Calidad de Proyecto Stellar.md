@@ -29,7 +29,8 @@ Fase 2: Análisis y Aplicación de Métricas de Calidad
   * Discusión Crítica
 
 Fase 3: Conclusiones y Recomendaciones
-  * Referencias
+
+Referencias
 
 ------------------------------------------------------
 
