@@ -1,26 +1,35 @@
 Materia: Ingeniería en Sistemas Computacionales
+
 Actividad: Métricas de Calidad en un Proyecto Stellar
+
 Proyecto Analizado: Fluxity (Stellar Community Fund)
+
 Repositorio: https://github.com/luanlabs/fluxity-interface.git
 
-Estudiantes: Cruz Ramírez Jaczibeth - Cruz Ortiz Vanessa - Velasco López Daniel
+Estudiantes: 
+  * Cruz Ramírez Jaczibeth
+  * Cruz Ortiz Vanessa
+  * Velasco López Daniel
 
 ----------------------------------------------------
 Índice
 
 Introducción
+
 Metodología
+
 Fase 1: Selección y Exploración del Proyecto
-3.1 Selección del Proyecto
-3.2 Exploración del Repositorio
+  * 3.1 Selección del Proyecto
+  * 3.2 Exploración del Repositorio
 Fase 2: Análisis y Aplicación de Métricas de Calidad
-4.1 Cobertura de Pruebas
-4.2 Calidad de la Documentación
-4.3 Tasa de Resolución de Errores
-4.4 Mantenimiento del Código y CI/CD
-Discusión Crítica
+  * 4.1 Cobertura de Pruebas
+  * 4.2 Calidad de la Documentación
+  * 4.3 Tasa de Resolución de Errores
+  * 4.4 Mantenimiento del Código y CI/CD
+  * Discusión Crítica
+
 Fase 3: Conclusiones y Recomendaciones
-Referencias
+  * Referencias
 
 ------------------------------------------------------
 
